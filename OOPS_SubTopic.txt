@@ -1,0 +1,63 @@
+Class, Object
+
+Access Modifier:
+Public, private, protected, default
+getter/setter
+
+Constructor:
+Constructor can not be abstract, static, or final.
+Private constructor (Singleton class)
+
+
+Static:
+Class, variable,method, block
+Static methods can not use non-static data members or call non-static methods directly.
+Why is the main method static?
+Static block:
+Used to initialize static data members.
+Executed before the main method (time of class loading)
+
+This(reference variable):
+Used to refer current class instance
+Used to invoke current class constructor (must be first statement)
+
+Inheritance:
+
+Super:
+Immediate class variable, method , constructor
+
+Polymorphism:
+
+Final:
+Variable, method, class, parameter.
+Stop value change, method overriding.
+Final method/variable is inherited.
+Static final only initialize in static block
+
+
+Abstract:
+0-100% abstract
+
+Interface:
+Variable : public static final
+Method: public abstract
+Default,static(java 8) private(java 9)
+
+Exception Handling
+
+Using OOPS:
+	Pair Class
+	Complex class
+	Dynamic Array
+	Fraction Class
+	
+
+
+
+
+
+
+
+
+
+
